@@ -5,7 +5,7 @@ It's based on [engram](https://github.com/binarybottle/engram/) layout, with som
 
 Currently I have setup for Windows only, pull requests for Linux are welcome. To install you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
 
-* Update - v2 for some corrections
+# Update - v2 for some corrections
 - consonants and vowels separation to reduce one finger sequences
 - POU block relocation
 - KLR moved to right side top row for better hand alternation and ergonomics
