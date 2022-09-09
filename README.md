@@ -5,5 +5,14 @@ It's based on [engram](https://github.com/binarybottle/engram/) layout, with som
 
 Currently I have setup for Windows only, pull requests for Linux are welcome. To install you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
 
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladpl.jpg "layer 1")
+* Update - v2 for some corrections
+- consonants and vowels separation to reduce one finger sequences
+- POU block relocation
+- KLR moved to right side top row for better hand alternation and ergonomics
+- V moved to left, i think it's better place for it
+
+I also highly recommend to try ctrl-capslock swap and sticky buttons - it significaly improves ergonomics
+
+
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/fwyr2.jpg "layer 1")
 ![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladplAltGr.jpg "alt gr layer")
