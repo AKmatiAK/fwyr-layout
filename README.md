@@ -14,5 +14,5 @@ Currently I have setup for Windows only, pull requests for Linux are welcome. To
 I also highly recommend to try ctrl-capslock swap and sticky buttons - it significaly improves ergonomics
 
 
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/fwyr2.jpg "layer 1")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/FWYR2.jpg "layer 1")
 ![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladplAltGr.jpg "alt gr layer")
