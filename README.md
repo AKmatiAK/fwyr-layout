@@ -5,5 +5,5 @@ It's based on [engram](https://github.com/binarybottle/engram/) layout, with som
 
 Currently I have setup for Windows only, pull requests for Linux are welcome.
 
-[layer1](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladpl.jpg "layer 1")
-[layeraltgr](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladplAltGr.jpg "alt gr layer")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladpl.jpg "layer 1")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladplAltGr.jpg "alt gr layer")
