@@ -16,3 +16,5 @@ I also highly recommend to try ctrl-capslock swap and sticky buttons - it signif
 
 ![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/FWYR2.jpg "layer 1")
 ![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/ukladplAltGr.jpg "alt gr layer")
+
+Notice ó position :P (polish people will understand)
