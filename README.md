@@ -5,7 +5,8 @@ It's based on [engram](https://github.com/binarybottle/engram/) layout, with som
 
 Currently I have setup for Windows only, pull requests for Linux are welcome. To install you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
 
-# Update - v3 now this layout is OP for polish, and good for english too ;)
+# Update - v3
+now this layout is OP for polish, and good for english too ;)
 - move two wovels for right hand
 - W and J moved to home row
 - extended home and bottom row
