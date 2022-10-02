@@ -5,6 +5,9 @@ It's based on [engram](https://github.com/binarybottle/engram/) layout, with som
 
 Currently I have setup for Windows only, pull requests for Linux are welcome. To install you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
 
+# Update - v4
+- just further upgrades
+
 # Update - v3
 now this layout is OP for polish, and good for english too ;)
 - move two wovels for right hand
@@ -23,5 +26,4 @@ now this layout is OP for polish, and good for english too ;)
 I also highly recommend to try ctrl-capslock swap and sticky buttons - it significaly improves ergonomics
 
 
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/FWYR3.jpg "layer 1")
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/FWYR3AltGr.jpg "alt gr layer")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/keyboard-layout(2).png "layout")
