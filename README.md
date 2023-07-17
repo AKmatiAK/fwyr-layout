@@ -30,4 +30,4 @@ now this layout is OP for polish, and good for english too ;)
 I also highly recommend to try ctrl-capslock swap and sticky buttons - it significaly improves ergonomics
 
 
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/"layout v5.png" "layout")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/layout_v5.png "layout")
