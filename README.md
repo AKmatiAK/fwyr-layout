@@ -1,9 +1,13 @@
 # fwyr-layout
 Keyboard layout optimized for polish
 
-It's based on [engram](https://github.com/binarybottle/engram/) layout, with some modifications and without punctuation marks in the middle. Polish characters arranged almost all on home row. Simple key swap possible on most keyboards - punctuation mark pairs are preserved. No changes in numbers row. There is no slash near left shift as on image - msklc displays layout weird.
+It's based on [engram](https://github.com/binarybottle/engram/) layout, but at the moment differs a lot. Polish characters arranged almost all on home row.
 
-Currently I have setup for Windows only, pull requests for Linux are welcome. To install you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
+For Linux and Windows. On Linux just change /usr/share/X11/xkb/pl. To install on Windows you need to download MSKLC first, load .klc file -> project -> build DLL and setup package. Then simply install .exe from build directory.
+
+# Update - v5
+- stable, I use it since almost a year
+- probably final
 
 # Update - v4
 - just further upgrades
@@ -26,4 +30,4 @@ now this layout is OP for polish, and good for english too ;)
 I also highly recommend to try ctrl-capslock swap and sticky buttons - it significaly improves ergonomics
 
 
-![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/keyboard-layout(2).png "layout")
+![image](https://github.com/AKmatiAK/fwyr-layout/blob/main/layout v5.png "layout")
